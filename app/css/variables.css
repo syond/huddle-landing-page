@@ -1,0 +1,9 @@
+/*Colors*/
+:root {
+    --violet: hsl(257, 40%, 49%);
+    --softMagenta: hsl(300, 69%, 71%);
+
+    --fontLow: 14px;
+    --fontMedium: 16px;
+    --fontLarge: 24px;
+}
