@@ -12,7 +12,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/4d0079cb-ec5c-4a55-98e2-ec3c210bfe86/deploy-status)](https://huddle-syond.netlify.app/)
 
 # :coffee: About
-The user can see informations about all movies from worldwide.
+Just a landing page developed by me.
 
 # :computer: Technologies
 * HTML
